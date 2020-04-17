@@ -23,5 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 
-./App1.js
-./icons
+App1.js
+icons
