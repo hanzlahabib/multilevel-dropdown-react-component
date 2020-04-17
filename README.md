@@ -10,6 +10,7 @@ npm start
 ```
 
 Example for this DropDwon:
+
 ![](animated-dropdown.gif)
 
 Thank you `FireShip` for the wonderful Content
